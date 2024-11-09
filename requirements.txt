@@ -1,0 +1,10 @@
+pytube
+openai
+openai-whisper
+pytesseract
+langchain
+faiss-cpu
+transformers
+torch
+neo4j
+pillow
